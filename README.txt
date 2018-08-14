@@ -1,18 +1,31 @@
-ZeroFour by HTML5 UP
+Spectral by HTML5 UP
 html5up.net | @ajlkn
 Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
 
 
-A responsive general purpose site template design named as such because it's the fourth
-design up here (very creative I know). Has plenty of room for all sorts of content
-and even multilevel drop down menus.
+A big, modern, blocky affair with a mobile-style menu, fully responsive styling,
+and an assortment of pre-styled elements. So, pretty much what you were expecting
+-- except, of course, for how it's put together, specifically:
+
+- It's built with components from my Responsive Tools project.
+
+- It uses flexbox, which eliminates all kinds of terrible hacks and clunky layout
+  stopgaps (like CSS grid systems).
+
+- It uses Sass* a lot more intelligently, thanks in part to several new mixins
+  and functions I've been working on (as well as a few by @HugoGiraudel).
+
+  (* = still entirely optional if you prefer vanilla CSS :)
+
+- A ton of other stuff.
+
+In short, Spectral's the culmination of several new things I'm working on/trying out,
+so please, let me know what you think :)
 
 Demo images* courtesy of Unsplash, a radtastic collection of CC0 (public domain) images
 you can use for pretty much whatever.
 
-(* = Not included)
-
-Feedback, bug reports, and comments are not only welcome, but strongly encouraged :)
+(* = not included)
 
 AJ
 aj@lkn.io | @ajlkn
@@ -24,13 +37,9 @@ Credits:
 		Unsplash (unsplash.com)
 
 	Icons:
-		Font Awesome (fortawesome.github.com/Font-Awesome)
+		Font Awesome (fontawesome.io)
 
 	Other:
 		jQuery (jquery.com)
-		html5shiv.js (@afarkas @jdalton @jon_neal @rem)
-		CSS3 Pie (css3pie.com)
-		background-size polyfill (github.com/louisremi)
-		Respond.js (j.mp/respondjs)
-		jquery.dropotron (@ajlkn)
-		Skel (skel.io)
+		Scrollex (github.com/ajlkn/jquery.scrollex)
+		Responsive Tools (github.com/ajlkn/responsive-tools)

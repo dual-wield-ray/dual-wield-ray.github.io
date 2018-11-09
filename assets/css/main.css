@@ -176,6 +176,7 @@ input, select, textarea {
 			text-decoration: none;
 		}
 
+
 	h2 {
 		font-size: 1.35em;
 		line-height: 1.75em;
@@ -3562,7 +3563,10 @@ input, select, textarea {
 		position: relative;
 		text-align: center;
 	}
-
+		/*Rebel*/
+		.wrapper h1 {
+			font-size: 3em;
+		}
 		#banner h2 {
 			-moz-transform: scale(1);
 			-webkit-transform: scale(1);

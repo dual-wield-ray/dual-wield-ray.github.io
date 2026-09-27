@@ -1,12 +1,12 @@
 ---
 layout: project
-title: Augmented Games
-subtitle: Worldwide interactive playgrounds for all ages
-hero_image: https://momentfactory.com/cdn/shop/files/DSC00342-DxO_DeepPRIMEXD3.png
+title: Carrefour Laval
+subtitle: Interactive butterfly wall in the mall gardens
+hero_image: https://momentfactory.com/cdn/shop/files/CF-Laval_Moment-Factory_Butterflies_03-WS.jpg
 ---
 
 <header class="major">
-	<h2>Augmented Games</h2>
+	<h2>Carrefour Laval</h2>
 </header>
 <p>Worldwide interactive playgrounds for all ages.</p>
 

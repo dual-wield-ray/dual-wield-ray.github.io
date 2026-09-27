@@ -1,0 +1,53 @@
+<!DOCTYPE HTML>
+<html lang="en">
+<head>
+	<title>{{ page.title }} | {{ site.title | default: "Portfolio" }}</title>
+	<meta charset="utf-8" />
+	<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+	<link rel="stylesheet" href="{{ '/assets/css/main.css' | relative_url }}" />
+	<noscript><link rel="stylesheet" href="{{ '/assets/css/noscript.css' | relative_url }}" /></noscript>
+</head>
+<body class="is-preload">
+	<div id="wrapper">
+		<header id="header" class="alt style2">
+			<a href="{{ '/' | relative_url }}" class="logo"><strong>{{ site.title | default: "Portfolio" }}</strong></a>
+			<nav><a href="#menu">Menu</a></nav>
+		</header>
+
+		<nav id="menu">
+			<ul class="links">
+				<li><a href="{{ '/' | relative_url }}">Home</a></li>
+				<li><a href="{{ '/about.html' | relative_url }}">About</a></li>
+			</ul>
+		</nav>
+
+		{% assign hero_image_url = page.hero_image %}
+		{% unless page.hero_image contains '://' %}{% assign hero_image_url = page.hero_image | relative_url %}{% endunless %}
+		<section id="banner" class="style2"{% if page.hero_image %} style="background-image: url('{{ hero_image_url }}');"{% endif %}>
+			<div class="inner">
+				{% if page.hero_image %}<span class="image"><img src="{{ hero_image_url }}" alt="{{ page.title }}" /></span>{% endif %}
+				<header class="major"><h1>{{ page.title }}</h1></header>
+				{% if page.subtitle %}<div class="content"><p>{{ page.subtitle }}</p></div>{% endif %}
+			</div>
+		</section>
+
+		<div id="main" class="alt">
+			<section id="one"><div class="inner">{{ content }}</div></section>
+		</div>
+
+		<footer id="footer">
+			<div class="inner">
+				<ul class="copyright"><li>&copy; {{ site.title | default: "Portfolio" }}</li></ul>
+			</div>
+		</footer>
+	</div>
+
+	<script src="{{ '/assets/js/jquery.min.js' | relative_url }}"></script>
+	<script src="{{ '/assets/js/jquery.scrolly.min.js' | relative_url }}"></script>
+	<script src="{{ '/assets/js/jquery.scrollex.min.js' | relative_url }}"></script>
+	<script src="{{ '/assets/js/browser.min.js' | relative_url }}"></script>
+	<script src="{{ '/assets/js/breakpoints.min.js' | relative_url }}"></script>
+	<script src="{{ '/assets/js/util.js' | relative_url }}"></script>
+	<script src="{{ '/assets/js/main.js' | relative_url }}"></script>
+</body>
+</html>

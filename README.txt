@@ -18,6 +18,27 @@ AJ
 aj@lkn.io | @ajlkn
 
 
+Jekyll project pages:
+
+Project pages use the layout in _layouts/project.html. Create a new root-level
+page with front matter like this, then put the page-specific HTML or Markdown
+below the closing front matter marker:
+
+---
+layout: project
+title: My Project
+subtitle: A short project description
+hero_image: /images/my-project.jpg
+---
+
+<h2>Project overview</h2>
+<p>Describe the project here.</p>
+
+Use an absolute URL for a remote hero image, or a root-relative path for an
+image stored in this repository. Build with Jekyll or GitHub Pages to render
+the page.
+
+
 Credits:
 
 	Demo Images:

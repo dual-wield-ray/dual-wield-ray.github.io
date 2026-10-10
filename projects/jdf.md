@@ -1,8 +1,8 @@
 ---
 layout: project
-title: Augmented Games
-subtitle: Worldwide interactive playgrounds for all ages
-hero_image: https://momentfactory.com/cdn/shop/files/DSC00342-DxO_DeepPRIMEXD3.png
+title: Jeux du Futur
+subtitle: At the Pasino Grand casino
+hero_image: https://momentfactory.com/cdn/shop/files/Moment_Factory_Customs_Pasino_Aix_en_Provence-0017-WS.jpg
 ---
 
 <header class="major">
@@ -10,7 +10,7 @@ hero_image: https://momentfactory.com/cdn/shop/files/DSC00342-DxO_DeepPRIMEXD3.p
 </header>
 <p>Worldwide interactive playgrounds for all ages.</p>
 
-<h3>Project overview</h3>
+ <h3>The Project</h3>
 <p>Describe the project, your role, the technology involved, and the experience you helped create here.</p>
 
 <h3>Contribution</h3>

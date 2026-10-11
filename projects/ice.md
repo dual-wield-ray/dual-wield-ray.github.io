@@ -6,12 +6,13 @@ hero_image: https://momentfactory.com/cdn/shop/files/Moment_Factory_Experiential
 ---
 
 <header class="major">
-	<h2>Augmented Games</h2>
+	<h2>Infocomm 2023</h2>
 </header>
-<p>Worldwide interactive playgrounds for all ages.</p>
 
- <h3>The Project</h3>
-<p>Describe the project, your role, the technology involved, and the experience you helped create here.</p>
+<h3>The Project</h3>
+<p>
+Infocomm is a trade show that brings together companies accross the multimedia landscape. For the Moment Factory booth, we created a customizable showcase experience. The wall featured three interactive capsules, with different color palettes, that could be controlled by a web app on an operator tablet.
+</p>
 
 <h3>Contribution</h3>
-<p>Add supporting details, images, video embeds, or links for this project here.</p>
+<p>I was the single Unity developer on the butterfly capsule. I handled all programming, asset integration, visual improvements, and webapp connections.</p>

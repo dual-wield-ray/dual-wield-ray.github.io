@@ -10,15 +10,12 @@ hero_image: https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fsim-grid.
 </header>
 
  <h3>The Project</h3>
-<p>I was brought on to the Eaton offices in Brossard to contribute my expertise in software quality and project management on the CYME software solution. This battle-tested software solution is used by electrical engineers all over the world to simulate the behaviour of electrical networks under various circumstances.
+<p>I was brought on to the Eaton offices in Brossard to contribute my expertise in software quality and project management on the CYME software solution. This battle-tested software is used by electrical engineers all over the world to simulate the behaviour of electrical networks under various circumstances.
 </p>
 
 <h3>Contribution</h3>
-<p>My mandate on this project is to spearhead the continuous amelioration of the technology suite. I am working in various spheres
-</p>
-
-<p>
-Most notably, I am bringing my creative energy to the table in order to further the quality of the product offering. Through code refactoring, API design, dev ops management, quality assurance, workflow trainings, and user experience improvements, I work hard to bring the software into the modern era. I am also the main point of contact for installations, deployment, and git workflow release management.
+<p>My mandate on this project is to spearhead the continuous amelioration of the technology suite. 
+Bringing my creative energy to the table in order to innovate processes and improve the quality of the product offering. Through code refactoring, API design, dev ops management, quality assurance, workflow trainings, and user experience improvements, I work hard to bring the software into the modern era. I am also the main point of contact for installations, deployment, and git workflow release management.
 </p>
 
 <style>

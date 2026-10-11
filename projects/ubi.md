@@ -11,10 +11,13 @@ hero_image: https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi.ytimg.
 
 <h3>The Project</h3>
 <p>
-Describe the project, your role, the technology involved, and the experience you helped create here.</p>
+As a first foray into the software industry, I was brought on the animation programming department of the Ubisoft Montreal studio. First working on an unannounced game, then later as part of the Technology Group (TG), I worked on a cross-engine fast runtime IK solution aimed at technical animators. Our libraries and tools helped to make the various creatures in the Ubisoft worlds to come to life.</p>
+
+<p>While this was my junior job out of University, I learned a lot by working at Ubisoft. While I did not specialize in animation programming in the end, I started finding the skillset that would later define my career; tools programming, API design, code quality, and technical project management.</p>
 
 <h3>Contribution</h3>
-<p>Add supporting details, images, video embeds, or links for this project here.</p>
+<p>I helped a team of senior animation programmers with their tasks, particularly with regards to developing the tools inside the Autodesk suite of software; plugins in Maya, Motionbuilder and 3dsMax. I also worked on a cross-platform API for animation programming in those tools.</p>
+In addition, I contributed to the integration of our library into the many engines at the studio, created documentation and video presentations, and fixed bugs as they came.
 
 
 <style>

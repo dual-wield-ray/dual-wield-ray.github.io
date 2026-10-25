@@ -1,0 +1,44 @@
+<!DOCTYPE HTML>
+<html lang="en">
+<head>
+	<title>{{ page.title | default: site.title }}</title>
+	<meta charset="utf-8" />
+	<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+	<link rel="stylesheet" href="{{ '/assets/css/main.css' | relative_url }}" />
+	<noscript><link rel="stylesheet" href="{{ '/assets/css/noscript.css' | relative_url }}" /></noscript>
+</head>
+<body class="is-preload">
+	<div id="wrapper">
+		<header id="header" class="alt style2">
+			<a href="{{ '/' | relative_url }}" class="logo"><strong>{{ site.title | default: "Portfolio" }}</strong></a>
+			<nav><a href="#menu">Menu</a></nav>
+		</header>
+
+		{% include menu.html %}
+
+		{% assign hero_image_url = page.hero_image %}
+		{% unless page.hero_image contains '://' %}{% assign hero_image_url = page.hero_image | relative_url %}{% endunless %}
+		{% if page.hero_image or page.title %}
+		<section id="banner" class="style2"{% if page.hero_image %} style="background-image: url('{{ hero_image_url }}');"{% endif %}>
+			<div class="inner">
+				{% if page.hero_image %}<span class="image"><img src="{{ hero_image_url }}" alt="{{ page.title | default: site.title }}" /></span>{% endif %}
+				<header class="major"><h1>{{ page.title | default: site.title }}</h1></header>
+				{% if page.subtitle %}<div class="content"><p>{{ page.subtitle }}</p></div>{% endif %}
+			</div>
+		</section>
+		{% endif %}
+
+		<div id="main" class="alt">
+			<section id="one"><div class="inner">{{ content }}</div></section>
+		</div>
+	</div>
+
+	<script src="{{ '/assets/js/jquery.min.js' | relative_url }}"></script>
+	<script src="{{ '/assets/js/jquery.scrolly.min.js' | relative_url }}"></script>
+	<script src="{{ '/assets/js/jquery.scrollex.min.js' | relative_url }}"></script>
+	<script src="{{ '/assets/js/browser.min.js' | relative_url }}"></script>
+	<script src="{{ '/assets/js/breakpoints.min.js' | relative_url }}"></script>
+	<script src="{{ '/assets/js/util.js' | relative_url }}"></script>
+	<script src="{{ '/assets/js/main.js' | relative_url }}"></script>
+</body>
+</html>

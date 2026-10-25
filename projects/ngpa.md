@@ -18,27 +18,7 @@ As part of the new National Geographic Museum of Exploration in Washington, we w
 I was a key player in the developement of the whole project, from early prototypes to integration of the final experience on site. Notably, designing a system for the runtime handling of thousands of photos and videos was one of the core responsabilities of the project that I took on.</p>
 
 
-<style>
-  .project-image-grid {
-    display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(500px, 1fr));
-    gap: 1rem;
-    margin: 1.5rem 0 2rem;
-  }
-
-  .project-image-grid img {
-    display: block;
-    width: 100%;
-    height: 500px;
-    object-fit: cover;
-    border-radius: 8px;
-    border: 1px solid rgba(255, 255, 255, 0.14);
-    background: #1a1a1a;
-    box-shadow: 0 8px 24px rgba(0, 0, 0, 0.15);
-  }
-</style>
-
-<div class="project-image-grid">
+<div class="project-image-grid project-image-grid--large">
   <img src="https://momentfactory.com/cdn/shop/files/Moment_Factory_Custom_Experience_Cultural___Educational_NGPA_AnimalsofEarth_Photo_Ark_JE-035_1_-WS.jpg?v=1782487341&width=1946" alt="Photo Ark gallery image 1" />
   <img src="https://momentfactory.com/cdn/shop/files/Moment_Factory_Custom_Experience_Cultural___Educational_NGPA_AnimalsofEarth_Photo_Ark_JE-064_1_-WS.jpg?v=1782487325&width=1946" alt="Photo Ark gallery image 2" />
   <img src="https://momentfactory.com/cdn/shop/files/Moment_Factory_Custom_Experience_Cultural___Educational_NGPA_AnimalsofEarth_Photo_Ark_JE-001_1_-WS.jpg?v=1782492103&width=1946" alt="Photo Ark gallery image 3" />

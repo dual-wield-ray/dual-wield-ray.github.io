@@ -20,27 +20,7 @@ As a first foray into the software industry, I was brought on the animation prog
 In addition, I contributed to the integration of our library into the many engines at the studio, created documentation and video presentations, and fixed bugs as they came.
 
 
-<style>
-  .project-image-grid {
-    display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(500px, 1fr));
-    gap: 1rem;
-    margin: 1.5rem 0 2rem;
-  }
-
-  .project-image-grid img {
-    display: block;
-    width: 100%;
-    height: 500px;
-    object-fit: cover;
-    border-radius: 8px;
-    border: 1px solid rgba(255, 255, 255, 0.14);
-    background: #1a1a1a;
-    box-shadow: 0 8px 24px rgba(0, 0, 0, 0.15);
-  }
-</style>
-
-<div class="project-image-grid">
+<div class="project-image-grid project-image-grid--large">
   <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwindows-cdn.softpedia.com%2Fscreenshots%2FAutodesk-MotionBuilder_1.png&f=1&nofb=1&ipt=611e48086a5805f7a72f0f41e3cb7f16b37604e0794b42a5908f862f7fd8a886&ipo=images" />
   <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fus.v-cdn.net%2F5021068%2Fuploads%2Feditor%2Fvd%2Flmjypcsu9qbl.png&f=1&nofb=1&ipt=24926c6759d875f89c433f813c9c885f0718b51dd5f977c94e491ebb509944f6&ipo=images" />
   <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi.ytimg.com%2Fvi%2FCb9BSmv8c40%2Fmaxresdefault.jpg&f=1&nofb=1&ipt=c809ad6ccc018992de13cdb35bb86b69e8d214e63ee8b9c52de44cce5015e534&ipo=images" />

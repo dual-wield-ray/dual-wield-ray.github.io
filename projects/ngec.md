@@ -13,28 +13,8 @@ Part of the new National Geographic Museum of Exploration in Washington, the Geo
 <h3>Contribution</h3>
 <p>I was the lead developer on this project, responsible for the majority of Unity programming involved. I was responsible for coordinating and integrating the various asset crafted by graphic designers, prerendered content, audio designers and composers, scientific writers, technical artists, and graphics programmers. I also handled all gameplay programming, quality assurance, and software deployment. This was a pet project for me, and I was very happy to see it brought to life in all its glory!</p>
 
-<style>
-  .project-image-grid {
-    display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(520px, 1fr));
-    gap: 1rem;
-    margin: 1.5rem 0 2rem;
-  }
-
-  .project-image-grid img {
-    display: block;
-    width: 100%;
-    height: 520px;
-    object-fit: cover;
-    border-radius: 8px;
-    border: 1px solid rgba(255, 255, 255, 0.14);
-    background: #1a1a1a;
-    box-shadow: 0 8px 24px rgba(0, 0, 0, 0.15);
-  }
-</style>
-
 <h3>Geoverse gallery</h3>
-<div class="project-image-grid">
+<div class="project-image-grid project-image-grid--extra-large">
   <img src="https://momentfactory.com/cdn/shop/files/Moment_Factory_Custom_Experience_Cultural___Educational_NGEC_Geoverse_JE-Alt-006-WS.jpg?v=1782493554&width=2048" alt="Geoverse gallery image 1" />
   <img src="https://momentfactory.com/cdn/shop/files/Moment_Factory_Custom_Experience_Cultural___Educational_NGEC_Geoverse_JE-089_1_-WS.jpg?v=1782493589&width=2048" alt="Geoverse gallery image 2" />
   <img src="https://momentfactory.com/cdn/shop/files/Moment_Factory_Custom_Experience_Cultural___Educational_NGEC_Geoverse_JE-104_1_-WS.jpg?v=1782493551&width=2048" alt="Geoverse gallery image 3" />
@@ -42,4 +22,3 @@ Part of the new National Geographic Museum of Exploration in Washington, the Geo
   <img src="https://momentfactory.com/cdn/shop/files/Moment_Factory_Custom_Experience_Cultural___Educational_NGEC_Geoverse_JE-099_1_-WS.jpg?v=1782487183&width=1946" alt="Geoverse gallery image 7" />
   <img src="https://momentfactory.com/cdn/shop/files/Moment_Factory_Custom_Experience_Cultural___Educational_NGEC_Geoverse_JE-Alt-002-WS.jpg?v=1782493593&width=1946" alt="Geoverse gallery image 8" />
 </div>
-

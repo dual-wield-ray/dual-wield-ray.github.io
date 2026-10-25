@@ -3951,5 +3951,41 @@ input, select, textarea {
 			visibility: visible;
 		}
 
+/* Project image galleries */
+
+.project-image-grid {
+	display: grid;
+	grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
+	gap: 1rem;
+	margin: 1.5rem 0 2rem;
+}
+
+.project-image-grid img {
+	display: block;
+	width: 100%;
+	height: 260px;
+	object-fit: cover;
+	border-radius: 8px;
+	border: 1px solid rgba(255, 255, 255, 0.14);
+	background: #1a1a1a;
+	box-shadow: 0 8px 24px rgba(0, 0, 0, 0.15);
+}
+
+.project-image-grid--large {
+	grid-template-columns: repeat(auto-fit, minmax(500px, 1fr));
+}
+
+.project-image-grid--large img {
+	height: 500px;
+}
+
+.project-image-grid--extra-large {
+	grid-template-columns: repeat(auto-fit, minmax(520px, 1fr));
+}
+
+.project-image-grid--extra-large img {
+	height: 520px;
+}
+
 
 		

@@ -17,7 +17,7 @@ As a first foray into the software industry, I was brought on the animation prog
 
 <h3>Contribution</h3>
 <p>I helped a team of senior animation programmers with their tasks, particularly with regards to developing the tools inside the Autodesk suite of software; plugins in Maya, Motionbuilder and 3dsMax. I also worked on a cross-platform API for animation programming in those tools.</p>
-In addition, I contributed to the integration of our library into the many engines at the studio, created documentation and video presentations, and fixed bugs as they came.
+In addition, I contributed to the integration of our library into the many engines at the studio such as Anvil and Snowdrop, created documentation and video presentations, and fixed bugs as they came.
 
 
 <div class="project-image-grid project-image-grid--large">

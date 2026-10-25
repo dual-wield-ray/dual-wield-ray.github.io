@@ -20,6 +20,15 @@
 				<ul class="links">
 					<li><a href="{{ '/' | relative_url }}">Home</a></li>
 					<li><a href="{{ '/about.html' | relative_url }}">About</a></li>
+					<li class="menu-submenu">
+						<input class="menu-projects-toggle" type="checkbox" id="menu-projects-toggle">
+						<label for="menu-projects-toggle">Projects</label>
+						<ul class="menu-projects">
+							{% for project in page.projects %}
+								<li><a href="{{ project.url | relative_url }}">{{ project.title }}</a></li>
+							{% endfor %}
+						</ul>
+					</li>
 				</ul>
 			</nav>
 

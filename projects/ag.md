@@ -24,46 +24,6 @@ Lastly, I was the lead developer on the "Memory" game, and in a rework of the ga
 
 <p>Here is a selection of projects built on the Augmented Games platform during my tenure:</p>
 
-<style>
-  .ag-gallery {
-    display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(360px, 1fr));
-    gap: 1rem;
-    margin: 1.5rem 0 2rem;
-  }
-
-  .ag-gallery a {
-    display: block;
-    text-decoration: none;
-    color: inherit;
-    border: 1px solid rgba(255, 255, 255, 0.14);
-    border-radius: 8px;
-    overflow: hidden;
-    background: rgba(255, 255, 255, 0.02);
-    transition: transform 0.2s ease, border-color 0.2s ease;
-  }
-
-  .ag-gallery a:hover {
-    transform: translateY(-2px);
-    border-color: rgba(255, 255, 255, 0.3);
-  }
-
-  .ag-gallery img {
-    display: block;
-    width: 100%;
-    height: 360px;
-    object-fit: cover;
-    background: #1a1a1a;
-  }
-
-  .ag-gallery span {
-    display: block;
-    padding: 0.8rem 0.75rem;
-    font-size: 0.9rem;
-    line-height: 1.4;
-  }
-</style>
-
 <div class="ag-gallery">
   <a href="https://momentfactory.com/products/augmented-games-at-party-day?_pos=6&_psq=augmented+games&_psid=272dfea1c&_ss=e" target="_blank" rel="noopener noreferrer">
     <img src="https://momentfactory.com/cdn/shop/files/Moment_Factory_Originals_Party_Day_Augmented_Games_MF-30.jpg?v=1753820878&width=1946" alt="Party Day" />

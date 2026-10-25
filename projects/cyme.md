@@ -14,8 +14,7 @@ hero_image: https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fsim-grid.
 </p>
 
 <h3>Contribution</h3>
-<p>My mandate on this project is to spearhead the continuous amelioration of the technology suite. 
-Bringing my creative energy to the table in order to innovate processes and improve the quality of the product offering. Through code refactoring, API design, dev ops management, quality assurance, workflow trainings, and user experience improvements, I work hard to bring the software into the modern era. I am also the main point of contact for installations, deployment, and git workflow release management.
+<p>My mandate on this project is to foster the continuous improvement of the technology suite, by bringing my creative energy to the table in order to innovate processes and improve the product offering. Through code refactoring, API refinement, dev ops management, quality assurance, workflow trainings, and user experience improvements, I work hard to bring the software into the modern era. I am also the main point of contact for installations, deployment, and software release orchestration.
 </p>
 
 <style>

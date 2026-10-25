@@ -1,7 +1,7 @@
 ---
 layout: project
 title: "National Geographic: Animals of Earth"
-subtitle: Learn about the Photo Ark project through the lens of Joel Sartore
+subtitle: Discover the Photo Ark project through the lens of Joel Sartore
 hero_image: https://momentfactory.com/cdn/shop/files/Moment_Factory_Custom_Experience_Cultural___Educational_NGPA_AnimalsofEarth_Photo_Ark_JE-048_1_-WS.jpg
 ---
 
@@ -15,7 +15,7 @@ As part of the new National Geographic Museum of Exploration in Washington, we w
 
 <h3>Contribution</h3>
 <p>I was a Unity developer for "Reasons to Care", the final zone (room) of the exhibit. It serves as the climax of the experience in the form of an interactive floor/wall playground, which progress into a 4-part narrative structure in which the viewers leave inspired to act to protect biodiversity.
-I was involved in the developement of the whole project, from early prototypes to integration of the final experience on site.</p>
+I was a key player in the developement of the whole project, from early prototypes to integration of the final experience on site. Notably, designing a system for the runtime handling of thousands of photos and videos was one of the core responsabilities of the project that I took on.</p>
 
 
 <style>
@@ -38,7 +38,6 @@ I was involved in the developement of the whole project, from early prototypes t
   }
 </style>
 
-<h3>Photo Ark: Animals of Earth</h3>
 <div class="project-image-grid">
   <img src="https://momentfactory.com/cdn/shop/files/Moment_Factory_Custom_Experience_Cultural___Educational_NGPA_AnimalsofEarth_Photo_Ark_JE-035_1_-WS.jpg?v=1782487341&width=1946" alt="Photo Ark gallery image 1" />
   <img src="https://momentfactory.com/cdn/shop/files/Moment_Factory_Custom_Experience_Cultural___Educational_NGPA_AnimalsofEarth_Photo_Ark_JE-064_1_-WS.jpg?v=1782487325&width=1946" alt="Photo Ark gallery image 2" />

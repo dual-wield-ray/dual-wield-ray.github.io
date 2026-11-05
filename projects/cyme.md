@@ -1,15 +1,11 @@
 ---
 layout: project
 title: CYME Software Solutions at Eaton
-subtitle: The leader in electrical network simulation
-hero_image: https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fsim-grid.com%2Fwp-content%2Fuploads%2F2022%2F03%2FCYME3.jpg&f=1&nofb=1&ipt=82c718e055df9d2555d415b3cbc6cba5e8ef246eb4d81d94ebd94a20ba2d8be3&ipo=images
+subtitle: World leader in electrical network modeling
+hero_image: /images/9540103.jpg
 ---
 
-<header class="major">
-	<h2>CYME Software Solutions at Eaton</h2>
-</header>
-
- <h3>The Project</h3>
+<h3>The Project</h3>
 <p>I was brought on to the Eaton offices in Brossard to contribute my expertise in software quality and project management on the CYME software solution. This battle-tested software is used by electrical engineers all over the world to simulate the behaviour of electrical networks under various circumstances.
 </p>
 

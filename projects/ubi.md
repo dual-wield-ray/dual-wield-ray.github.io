@@ -5,10 +5,6 @@ subtitle: Cross-production animation tooling
 hero_image: https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi.ytimg.com%2Fvi%2FtbweoPmaxTI%2Fmaxresdefault.jpg&f=1&nofb=1&ipt=50301b952f66268e5c590f0fb90f22008b5d0031536e747f775e6a8eb98c7ccf&ipo=images
 ---
 
-<header class="major">
-	<h2>Ubisoft Animation Technology</h2>
-</header>
-
 <h3>The Project</h3>
 <p>
 As a first foray into the software industry, I was brought on the animation programming department of the Ubisoft Montreal studio. First working on an unannounced game, then later as part of the Technology Group (TG), I worked on a cross-engine fast runtime IK solution aimed at technical animators. Our libraries and tools helped to make the various creatures in the Ubisoft worlds to come to life.</p>

@@ -5,7 +5,7 @@ subtitle: Spend a day in the Australian desert and learn about the animals that 
 hero_image: https://momentfactory.com/cdn/shop/files/Moment_Factory_Custom_Experience_Cultural___Educational_NGEC_Geoverse_JE-090_1_-WS.jpg?v=1782493550
 ---
 
- <h3>The Project</h3>
+<h3>The Project</h3>
 <p>
 Part of the new National Geographic Museum of Exploration in Washington, the Geoverse is a 270 degree interactive theater that immersives visitors into the wonders of our planet. The "day in the desert" exhibition invites guests to spend a day into the Great Victoria Desert.</p>
 <p>This project features many advanced graphical effects such as a day/night lighting cycle, a reactive sand simulation following the users' footsteps, rain and lightning effects, plants rustling when stepped on, and a massive pre-rendered desert scenery layered with interactive content.</p>

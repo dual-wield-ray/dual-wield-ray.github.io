@@ -1,14 +1,10 @@
 ---
 layout: project
-title: Gamkedo Club
+title: Gamkedo Club (now DevPods)
 permalink: /projects/gamkedo/
-subtitle: Games I worked on as part of Gamkedo Club
+subtitle: My first game projects as part of an online development club
 hero_image: /old-images/spellspiel.png
 ---
-
-<header class="major">
-	<h2>Gamkedo Club games</h2>
-</header>
 
 <p>During my student years, I was part of the online development group called Gamkedo Club. This group is all about making free videogames in a collaborative, friendly environment. The projects were about 2 to 4 months of development during our collective free times. These were my first game projects, and I have fond memories of those simpler times making games with likeminded hobbyists.</p>
 

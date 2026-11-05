@@ -5,11 +5,7 @@ subtitle: Discover the Photo Ark project through the lens of Joel Sartore
 hero_image: https://momentfactory.com/cdn/shop/files/Moment_Factory_Custom_Experience_Cultural___Educational_NGPA_AnimalsofEarth_Photo_Ark_JE-048_1_-WS.jpg
 ---
 
-<header class="major">
-	<h2>National Geographic: Animals of Earth</h2>
-</header>
-
- <h3>The Project</h3>
+<h3>The Project</h3>
 <p>
 As part of the new National Geographic Museum of Exploration in Washington, we were tasked with creating a multimedia experience detailing the life of Joel Sartore, photographer for National Geographic. Joel's inspiring Photo Ark project - to document the entirety of Earth's species through photography and video - is rendered in large-scale projection for visitors to discover.</p>
 

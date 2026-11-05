@@ -5,11 +5,7 @@ subtitle: Worldwide interactive playgrounds for all ages
 hero_image: https://momentfactory.com/cdn/shop/files/DSC00342-DxO_DeepPRIMEXD3.png
 ---
 
-<header class="major">
-	<h2>Augmented Games</h2>
-</header>
-
- <h3>The Project</h3>
+<h3>The Project</h3>
 <p>Augmented Games (AG) allows you to step into the world of a videogame where *you* are the controller. An ever-expanding library of games allows people of all demographics to join in on the fun in a larger-than-life interactive playground. </p>
 
 <h3>Contribution</h3>

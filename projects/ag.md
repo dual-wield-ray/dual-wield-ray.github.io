@@ -5,20 +5,17 @@ subtitle: Worldwide interactive playgrounds for all ages
 hero_image: https://momentfactory.com/cdn/shop/files/DSC00342-DxO_DeepPRIMEXD3.png
 ---
 
-<h3>The Project</h3>
-<p>Augmented Games (AG) allows you to step into the world of a videogame where *you* are the controller. An ever-expanding library of games allows people of all demographics to join in on the fun in a larger-than-life interactive playground. </p>
+### The project
+In Augmented Games (AG), step into the world of a videogame where **you** are the controller. An ever-expanding library of games allows people of all demographics to join in on the fun in a larger-than-life interactive playground.
 
-<h3>Contribution</h3>
-<p>My role was centered around the transition of the Augmented Games from a project to a product. With the mandate to bring the games worldwide, I worked on the software ecosystem to build a platform that is stable, easily deployable, and customizable. I worked both on the Unity programming of the core game library, and on the deployment and integration pipeline. I was one of the principal responsible for release management, preparing and testing release builds. I designed a new asset pipeline to allow for the integration of custom skins and brandings, as well as localization.
+### The role
+
+My role was centered around the transition of the Augmented Games from a project to a product. With the mandate to bring the games worldwide, I worked on the software ecosystem to build a platform that is stable, easily deployable, and customizable. I worked both on the Unity programming of the core game library, and on the deployment and integration pipeline. I was one of the principal responsible for release management, preparing and testing release builds. I designed a new asset pipeline to allow for the integration of custom skins and brandings, as well as localization.
 Lastly, I was the lead developer on the "Memory" game, and in a rework of the game launcher which was remade from scratch in Unity.
-</p>
 
- <p>
- During my time on the team, we shipped many iterations of the Augmented Games all over the world. We deployed the games in China, Japan, Belgium, the UK, the UAE, the US, as well as right here in Québec. Some were events, while others are long-term multi-venue contracts.
+During my time on the team, we delivered many iterations of the Augmented Games all over the world: China, Japan, Belgium, the UK, the UAE, the US, at home in Quebec, and even at sea on cruise ships. While some were for events, many were long-term, multi-venue partnerships. Augmented Games also won the IAAPA Expo 2026 Best New Product Award in the Patron Participation Ride / Attraction Category.
 
- </p>
-
-<p>Here is a selection of projects built on the Augmented Games platform during my tenure:</p>
+Projects built on the Augmented Games platform during my tenure:
 
 <div class="ag-gallery">
   <a href="https://momentfactory.com/products/augmented-games-at-party-day?_pos=6&_psq=augmented+games&_psid=272dfea1c&_ss=e" target="_blank" rel="noopener noreferrer">

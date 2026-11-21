@@ -5,15 +5,18 @@ subtitle: Spend a day in the Australian desert and learn about the animals that 
 hero_image: https://momentfactory.com/cdn/shop/files/Moment_Factory_Custom_Experience_Cultural___Educational_NGEC_Geoverse_JE-090_1_-WS.jpg?v=1782493550
 ---
 
-<h3>The Project</h3>
-<p>
-Part of the new National Geographic Museum of Exploration in Washington, the Geoverse is a 270 degree interactive theater that immersives visitors into the wonders of our planet. The "day in the desert" exhibition invites guests to spend a day into the Great Victoria Desert.</p>
-<p>This project features many advanced graphical effects such as a day/night lighting cycle, a reactive sand simulation following the users' footsteps, rain and lightning effects, plants rustling when stepped on, and a massive pre-rendered desert scenery layered with interactive content.</p>
+### The project
 
-<h3>Contribution</h3>
-<p>I was the lead developer on this project, responsible for the majority of Unity programming involved. I was responsible for coordinating and integrating the various asset crafted by graphic designers, prerendered content, audio designers and composers, scientific writers, technical artists, and graphics programmers. I also handled all gameplay programming, quality assurance, and software deployment. This was a pet project for me, and I was very happy to see it brought to life in all its glory!</p>
+Part of the new National Geographic Museum of Exploration in Washington DC, the Geoverse is a 270-degree interactive theater that immerses visitors into the wondrous landscapes of our planet. Our project, the "day in the desert" exhibition, invites guests to spend a day into the harsh yet beautiful Great Victoria Desert in Australia.
 
-<h3>Geoverse gallery</h3>
+This installation features many advanced graphical details such as realistic day and night lighting, reactive sand following the users' footsteps, rain, lightning, plants rustling when stepped on, and a massive pre-rendered desert scenery seamlessly layered with interactive content.
+
+### The role
+I was the lead developer on this project, responsible for the majority of Unity programming involved. In addition to doing the crux of the programming, I was responsible for coordinating and integrating the various asset crafted by graphic designers, prerendered content department, audio designers, composers, technical writers, and VFX artists. I also handled gameplay programming, quality assurance, software deployment, and preparations for client demos.
+
+This was a pet project for me, and I was very happy to see it brought to life in all its glory!
+
+### Geoverse gallery
 <div class="project-image-grid project-image-grid--extra-large">
   <img src="https://momentfactory.com/cdn/shop/files/Moment_Factory_Custom_Experience_Cultural___Educational_NGEC_Geoverse_JE-Alt-006-WS.jpg?v=1782493554&width=2048" alt="Geoverse gallery image 1" />
   <img src="https://momentfactory.com/cdn/shop/files/Moment_Factory_Custom_Experience_Cultural___Educational_NGEC_Geoverse_JE-089_1_-WS.jpg?v=1782493589&width=2048" alt="Geoverse gallery image 2" />

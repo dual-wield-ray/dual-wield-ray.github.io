@@ -5,13 +5,15 @@ subtitle: Discover the Photo Ark project through the lens of Joel Sartore
 hero_image: https://momentfactory.com/cdn/shop/files/Moment_Factory_Custom_Experience_Cultural___Educational_NGPA_AnimalsofEarth_Photo_Ark_JE-048_1_-WS.jpg
 ---
 
-<h3>The Project</h3>
-<p>
-As part of the new National Geographic Museum of Exploration in Washington, we were tasked with creating a multimedia experience detailing the life of Joel Sartore, photographer for National Geographic. Joel's inspiring Photo Ark project - to document the entirety of Earth's species through photography and video - is rendered in large-scale projection for visitors to discover.</p>
+### The project
 
-<h3>Contribution</h3>
-<p>I was a Unity developer for "Reasons to Care", the final zone (room) of the exhibit. It serves as the climax of the experience in the form of an interactive floor/wall playground, which progress into a 4-part narrative structure in which the viewers leave inspired to act to protect biodiversity.
-I was a key player in the developement of the whole project, from early prototypes to integration of the final experience on site. Notably, designing a system for the runtime handling of thousands of photos and videos was one of the core responsabilities of the project that I took on.</p>
+As part of the new National Geographic Museum of Exploration in Washington DC, we were tasked with creating a multimedia experience detailing the life of Joel Sartore, photographer for National Geographic. Joel's inspiring Photo Ark journey - to document the entirety of Earth's species through photography and video - is recounted in large-scale projection for visitors to discover.
+
+### The role
+I was a Unity developer for "Reasons to Care", the final zone (room) of the exhibit. It serves as the climax of the experience in the form of an interactive floor/wall playground, which progresses through a 4-part narrative structure in which the viewers leave inspired to act to protect biodiversity.
+
+I was a key player in the developement of the whole project, from early prototypes to integration of the final experience on site. I was responsible for orchestrating the narrative timeline, handling gameplay variations, color progressions, animated icons, audio cues, and various text displays and animations.
+Conceiving of a system for the runtime handling of thousands of photos and videos, and which would allow the Photo Ark media library to keep growing over time, was also a central challenges of the project that was entrusted to me.
 
 
 <div class="project-image-grid project-image-grid--large">
